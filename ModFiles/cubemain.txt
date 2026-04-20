@@ -150,3 +150,5 @@ r01 + gcv + tempered weapon -> +30-50 ar				100					3	"weap,tmp"	r01	gcv					use
 Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							
 Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
+lrin to rrin	1			100					1	rn2							"rin,mod"			100																																																																																				0
+rrin to lrin	1			100					1	rin							"rn2,mod"			100																																																																																				0
