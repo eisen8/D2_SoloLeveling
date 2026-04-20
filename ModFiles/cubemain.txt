@@ -251,4 +251,33 @@ rune 33 -> 1.5 rune 32	1			100					1	r33							r32																													r
 2 pgem + 1 rune + superior weapon -> 5 sockets	1			100					4	"weap,hiq,nos"	"gem4,qty=2"	rune					useitem				sock			5	5																																																																															0
 3 pgem + 1 rune + superior weapon -> 6 sockets	1			100					5	"weap,hiq,nos"	"gem4,qty=3"	rune					useitem				sock			6	6																																																																															0
 1 pgem + unique -> 1 socket	1			100					2	"any,uni"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
-1 pgem + set -> 1 socket	1			100					2	"any,set"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+pgem + set -> 1 socket	1			100					2	"any,set"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+chipped amethysts -> flawed amethyst	1			0					1	gcv							gfv																																																																																							0
+flawed amethysts -> standard amethyst	1			0					1	gfv							gsv																																																																																							0
+standard amethysts -> flawless amethyst	1			0					1	gsv							gzv																																																																																							0
+flawless amethysts -> perfect amethyst	1			0					1	gzv							gpv																																																																																							0
+chipped rubies -> flawed ruby	1			0					1	gcr							gfr																																																																																							0
+flawed rubies -> standard ruby	1			0					1	gfr							gsr																																																																																							0
+standard rubies -> flawless ruby	1			0					1	gsr							glr																																																																																							0
+flawless rubies -> perfect ruby	1			0					1	glr							gpr																																																																																							0
+chipped sapphires -> flawed sapphire	1			0					1	gcb							gfb																																																																																							0
+flawed sapphires -> standard sapphire	1			0					1	gfb							gsb																																																																																							0
+standard sapphires -> flawless sapphire	1			0					1	gsb							glb																																																																																							0
+flawless sapphires -> perfect sapphire	1			0					1	glb							gpb																																																																																							0
+chipped topazes -> flawed topaz	1			0					1	gcy							gfy																																																																																							0
+flawed topazes -> standard topaz	1			0					1	gfy							gsy																																																																																							0
+standard topazes -> flawless topaz	1			0					1	gsy							gly																																																																																							0
+flawless topazes -> perfect topaz	1			0					1	gly							gpy																																																																																							0
+chipped emeralds -> flawed emerald	1			0					1	gcg							gfg																																																																																							0
+flawed emeralds -> standard emerald	1			0					1	gfg							gsg																																																																																							0
+standard emeralds -> flawless emerald	1			0					1	gsg							glg																																																																																							0
+flawless emeralds -> perfect emerald	1			0					1	glg							gpg																																																																																							0
+chipped diamonds -> flawed diamond	1			0					1	gcw							gfw																																																																																							0
+flawed diamonds -> standard diamond	1			0					1	gfw							gsw																																																																																							0
+standard diamonds -> flawless diamond	1			0					1	gsw							glw																																																																																							0
+flawless diamonds -> perfect diamond	1			0					1	glw							gpw																																																																																							0
+chipped skulls -> flawed skull	1			0					1	skc							skf																																																																																							0
+flawed skulls -> standard skull	1			0					1	skf							sku																																																																																							0
+standard skulls -> flawless skull	1			0					1	sku							skl																																																																																							0
+flawless skulls -> perfect skull	1			0					1	skl							skz																																																																																							0
+1 Wirt's leg -> portal to cow lvl + 1 Wirt's Leg	1			0	28				1	leg							Cow Portal																													leg																																																										0
