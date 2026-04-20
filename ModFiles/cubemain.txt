@@ -147,8 +147,108 @@ r08 + jew + magic ring -> tempered ring				100					3	"ring,mag"	jew	r08					"use
 r08 + jew + magic amulet -> tempered amulet				100					3	"amu,mag"	jew	r08					"usetype,tmp"				levelreq			5	5																																																																															0
 r01 + gcv + tempered weapon -> +30-50 ar				100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
 "3 chipped gems + 1 magic weapon -> socketed, magic weapon"	1			0					4	"weap,mag"	"gem0,qty=3"						"usetype,mag"	25		50	sock			1	2																																																																															0
-Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							
-Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							
+Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
+Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
 lrin to rrin	1			100					1	rn2							"rin,mod"			100																																																																																				0
 rrin to lrin	1			100					1	rin							"rn2,mod"			100																																																																																				0
+2 rune 1 -> rune 2	1			100					2	"r01,qty=2"							r02																																																																																							0
+2 rune 2 -> rune 3	1			100					2	"r02,qty=2"							r03																																																																																							0
+2 rune 3 -> rune 4	1			100					2	"r03,qty=2"							r04																																																																																							0
+2 rune 4 -> rune 5	1			100					2	"r04,qty=2"							r05																																																																																							0
+2 rune 5 -> rune 6	1			100					2	"r05,qty=2"							r06																																																																																							0
+2 rune 6 -> rune 7	1			100					2	"r06,qty=2"							r07																																																																																							0
+2 rune 7 -> rune 8	1			100					2	"r07,qty=2"							r08																																																																																							0
+2 rune 9 -> rune 9	1			100					2	"r08,qty=2"							r09																																																																																							0
+2 rune 9 -> rune 10	1			100					2	"r09,qty=2"							r10																																																																																							0
+2 rune 10 -> rune 11	1			100					2	"r10,qty=2"							r11																																																																																							0
+2 rune 11 -> rune 12	1			100					2	"r11,qty=2"							r12																																																																																							0
+2 rune 12 -> rune 13	1			100					2	"r12,qty=2"							r13																																																																																							0
+2 rune 13 -> rune 14	1			100					3	"r13,qty=2"							r14																																																																																							0
+2 rune 14 -> rune 15	1			100					2	"r14,qty=2"							r15																																																																																							0
+2 rune 15  -> rune 16	1			100					2	"r15,qty=2"							r16																																																																																							0
+2 rune 16 -> rune 17	1			100					2	"r16,qty=2"							r17																																																																																							0
+2 rune 17 -> rune 18	1			100					2	"r17,qty=2"							r18																																																																																							0
+2 rune 18 -> rune 19	1			100					2	"r18,qty=2"							r19																																																																																							0
+2 rune 19 -> rune 20	1			100					2	"r19,qty=2"							r20																																																																																							0
+2 rune 20 -> rune 21	1			100					2	"r20,qty=2"							r21																																																																																							0
+2 rune 21 -> rune 22	1			100					2	"r21,qty=2"							r22																																																																																							0
+2 rune 22 -> rune 23	1			100					2	"r22,qty=2"							r23																																																																																							0
+2 rune 23  -> rune 24	1			100					2	"r23,qty=2"							r24																																																																																							0
+2 rune 24 -> rune 25	1			100					2	"r24,qty=2"							r25																																																																																							0
+2 rune 25 -> rune 26	1			100					2	"r25,qty=2"							r26																																																																																							0
+2 rune 26 -> rune 27	1			100					2	"r26,qty=2"							r27																																																																																							0
+2 rune 27 -> rune 28	1			100					2	"r27,qty=2"							r28																																																																																							0
+2 rune 28 -> rune 29	1			100					2	"r28,qty=2"							r29																																																																																							0
+2 rune 29 -> rune 30	1			100					2	"r29,qty=2"							r30																																																																																							0
+2 rune 30 -> rune 31	1			100					2	"r30,qty=2"							r31																																																																																							0
+2 rune 31 -> rune 32	1			100					2	"r31,qty=2"							r32																																																																																							0
+2 rune 32 -> rune 33	1			100					2	"r32,qty=2"							r33																																																																																							0
+rune 2 -> 2 rune 1	1			100					1	r02							r01																													r01																																																										0
+rune 3 -> 1.5 rune 2	1			100					1	r03							r02																													r01																																																										0
+rune 4 -> 1.5 rune 3	1			100					1	r04							r03																													r02																																																										0
+rune 5 -> 1.5 rune 4	1			100					1	r05							r04																													r03																																																										0
+rune 6 -> 1.5 rune 5	1			100					1	r06							r05																													r04																																																										0
+rune 7 -> 1.5 rune 6	1			100					1	r07							r06																													r05																																																										0
+rune 8 -> 1.5 rune 7	1			100					1	r08							r07																													r06																																																										0
+rune 9 -> 1.5 rune 8	1			100					1	r09							r08																													r07																																																										0
+rune 10 -> 1.5 rune 9	1			100					1	r10							r09																													r08																																																										0
+rune 11 -> 1.5 rune 10	1			100					1	r11							r10																													r09																																																										0
+rune 12 -> 1.5 rune 11	1			100					1	r12							r11																													r10																																																										0
+rune 13 -> 1.5 rune 12	1			100					1	r13							r12																													r11																																																										0
+rune 14 -> 1.5 rune 13	1			100					1	r14							r13																													r12																																																										0
+rune 15 -> 1.5 rune 14	1			100					1	r15							r14																													r13																																																										0
+rune 16 -> 1.5 rune 15	1			100					1	r16							r15																													r14																																																										0
+rune 17 -> 1.5 rune 16	1			100					1	r17							r16																													r15																																																										0
+rune 18 -> 1.5 rune 17	1			100					1	r18							r17																													r16																																																										0
+rune 19 -> 1.5 rune 18	1			100					1	r19							r18																													r17																																																										0
+rune 20 -> 1.5 rune 19	1			100					1	r20							r19																													r18																																																										0
+rune 21 -> 1.5 rune 20	1			100					1	r21							r20																													r19																																																										0
+rune 22 -> 1.5 rune 21	1			100					1	r22							r21																													r20																																																										0
+rune 23 -> 1.5 rune 22	1			100					1	r23							r22																													r21																																																										0
+rune 24 -> 1.5 rune 23	1			100					1	r24							r23																													r22																																																										0
+rune 25 -> 1.5 rune 24	1			100					1	r25							r24																													r23																																																										0
+rune 26 -> 1.5 rune 25	1			100					1	r26							r25																													r24																																																										0
+rune 27 -> 1.5 rune 26	1			100					1	r27							r26																													r25																																																										0
+rune 28 -> 1.5 rune 27	1			100					1	r28							r27																													r26																																																										0
+rune 29 -> 1.5 rune 28	1			100					1	r29							r28																													r27																																																										0
+rune 30 -> 1.5 rune 29	1			100					1	r30							r29																													r28																																																										0
+rune 31 -> 1.5 rune 30	1			100					1	r31							r30																													r29																																																										0
+rune 32 -> 1.5 rune 31	1			100					1	r32							r31																													r30																																																										0
+rune 33 -> 1.5 rune 32	1			100					1	r33							r32																													r31																																																										0
+1 pgem + norm torso -> 1 sockets	1			100					2	"tors,nor,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+2 pgem + norm torso -> 2 sockets	1			100					3	"tors,nor,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+3 pgem + norm torso -> 3 sockets	1			100					4	"tors,nor,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+1 pgem + 1 rune + norm torso -> 4 sockets	1			100					3	"tors,nor,nos"	"gem4,qty=1"	rune					useitem				sock			4	4																																																																															0
+1 pgem + superior torso -> 1 sockets	1			100					2	"tors,hiq,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+2 pgem + superior torso -> 2 sockets	1			100					3	"tors,hiq,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+3 pgem + superior torso -> 3 sockets	1			100					4	"tors,hiq,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+1 pgem + 1 rune + superior torso -> 4 sockets	1			100					3	"tors,hiq,nos"	"gem4,qty=1"	rune					useitem				sock			4	4																																																																															0
+1 pgem + norm helm -> 1 sockets	1			100					2	"helm,nor,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+2 pgem + norm helm -> 2 sockets	1			100					3	"helm,nor,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+3 pgem + norm helm -> 3 sockets	1			100					4	"helm,nor,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+1 pgem + superior helm -> 1 sockets	1			100					2	"helm,hiq,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+2 pgem + superior helm -> 2 sockets	1			100					3	"helm,hiq,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+3 pgem + superior helm -> 3 sockets	1			100					4	"helm,hiq,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+1 pgem + norm shield -> 1 sockets	1			100					2	"shld,nor,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+2 pgem + norm shield -> 2 sockets	1			100					3	"shld,nor,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+3 pgem + norm shield -> 3 sockets	1			100					4	"shld,nor,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+1 pgem + 1 rune + norm shield -> 4 sockets	1			100					3	"shld,nor,nos"	"gem4,qty=1"	rune					useitem				sock			4	4																																																																															0
+1 pgem + superior shield -> 1 sockets	1			100					2	"shld,hiq,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+2 pgem + superior shield -> 2 sockets	1			100					3	"shld,hiq,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+3 pgem + superior shield -> 3 sockets	1			100					4	"shld,hiq,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+1 pgem + 1 rune + superior shield -> 4 sockets	1			100					3	"shld,hiq,nos"	"gem4,qty=1"	rune					useitem				sock			4	4																																																																															0
+1 pgem + norm weapon -> 1 sockets	1			100					2	"weap,nor,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+2 pgem + norm weapon -> 2 sockets	1			100					3	"weap,nor,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+3 pgem + norm weapon -> 3 sockets	1			100					4	"weap,nor,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+1 pgem + 1 rune + norm weapon -> 4 sockets	1			100					3	"weap,nor,nos"	"gem4,qty=1"	rune					useitem				sock			4	4																																																																															0
+2 pgem + 1 rune + norm weapon -> 5 sockets	1			100					4	"weap,nor,nos"	"gem4,qty=2"	rune					useitem				sock			5	5																																																																															0
+3 pgem + 1 rune + norm weapon -> 6 sockets	1			100					5	"weap,nor,nos"	"gem4,qty=3"	rune					useitem				sock			6	6																																																																															0
+1 pgem + superior weapon -> 1 sockets	1			100					2	"weap,hiq,nos"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+2 pgem + superior weapon -> 2 sockets	1			100					3	"weap,hiq,nos"	"gem4,qty=2"						useitem				sock			2	2																																																																															0
+3 pgem + superior weapon -> 3 sockets	1			100					4	"weap,hiq,nos"	"gem4,qty=3"						useitem				sock			3	3																																																																															0
+1 pgem + 1 rune + superior weapon -> 4 sockets	1			100					3	"weap,hiq,nos"	"gem4,qty=1"	rune					useitem				sock			4	4																																																																															0
+2 pgem + 1 rune + superior weapon -> 5 sockets	1			100					4	"weap,hiq,nos"	"gem4,qty=2"	rune					useitem				sock			5	5																																																																															0
+3 pgem + 1 rune + superior weapon -> 6 sockets	1			100					5	"weap,hiq,nos"	"gem4,qty=3"	rune					useitem				sock			6	6																																																																															0
+1 pgem + unique -> 1 socket	1			100					2	"any,uni"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
+1 pgem + set -> 1 socket	1			100					2	"any,set"	"gem4,qty=1"						useitem				sock			1	1																																																																															0
