@@ -281,3 +281,4 @@ flawed skulls -> standard skull	1			0					1	skf							sku																							
 standard skulls -> flawless skull	1			0					1	sku							skl																																																																																							0
 flawless skulls -> perfect skull	1			0					1	skl							skz																																																																																							0
 1 Wirt's leg -> portal to cow lvl + 1 Wirt's Leg	1			0	28				1	leg							Cow Portal																													leg																																																										0
+Token of Absolution	1			100					1	tbk							toa																																																																																							0
